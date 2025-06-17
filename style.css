@@ -1,0 +1,121 @@
+.bosy{
+padding: 0;
+font-family: "Playfair Display", serif;
+font-optical-sizing: auto;
+
+}
+.intro{
+  color: whitesmoke;
+  background-color: rgba(38, 58, 71, 0.8);
+  display: block;
+  padding: 20px;
+  margin: 15px;
+  border-radius: 8px;
+}
+
+ .intrest, .project {
+  color: white;
+  background-color: rgba(38, 58, 71, 0.8);
+  display: inline-block;
+  padding: 20px;
+  margin: 15px;
+  border-radius: 8px;
+  vertical-align: top;
+  height: 205px;
+
+}
+.about{
+    color: black;
+    padding: 20px;
+    margin: 5px;
+}
+.social{
+  color: black;
+  background-color: rgba(38, 58, 71, 0.8);
+  display: block;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 8px;
+}
+.contact{
+  display: inline-block;
+  background-color:  #213549;
+  padding: 10px;
+  border-radius: 5px;
+}
+.links{
+  display: inline-block;
+  background-color:  #213549;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+
+.git{
+  display: inline-block;
+  background-color:  #213549;
+  padding: 10px;
+  margin: 10px;
+   border-radius: 5px;
+}
+.bovy{
+
+padding: 0;
+font-family: "Playfair Display", serif;
+font-optical-sizing: auto;
+
+}
+.name{
+  color: whitesmoke;
+  background-color: rgba(38, 58, 71, 0.8);
+  display: block;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+  text-align: center;
+}
+.container{
+  margin: 20px;
+}
+.contact-form{
+  margin-top: 20px;
+}
+.contact-form__input,.contact-form__textarea,.contact-form__submit{
+  margin-top: 10px;
+}
+.contact-form__input{
+  padding: 10px;
+  border: none;
+  border-bottom: solid black 1px;
+}
+.contact-form__textarea{
+  padding: 10px;
+  border: none;
+  border: solid black 1px;
+}
+.contact-form__submit{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color:#213549; 
+  color: aliceblue;
+  border: none;
+  border-radius: 5px;
+}
+.contactsocial{
+ background-color:rgba(38, 58, 71, 0.8);  
+ padding: 10px;
+ border-radius:8px ;
+ margin-top: 15px;
+}
+.button{
+  margin: 10px;
+  background-color: #213549;
+  color: aliceblue;
+  padding: 10px;
+  border-radius: 5px;
+  display: inline-block;
+  
+}
