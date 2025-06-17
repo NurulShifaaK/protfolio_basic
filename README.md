@@ -19,7 +19,7 @@ HTML5
 CSS3
 
 YOU CAN VISIT MY SITE USING THIS LINK BELOW:
-
+https://nurulshifaak.github.io/protfolio_basic/
 
 
 THANK YOU.
